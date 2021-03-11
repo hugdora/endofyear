@@ -10,10 +10,10 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>seasons</artifactId>
+  <artifactId>endofyear</artifactId>
   <packaging>war</packaging>
-  <name>seasons</name>
-  <description>seasons.</description>
+  <name>endofyear</name>
+  <description>endofyear.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
